@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiya! 👋
 
 <!--
 **a2not/a2not** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Blog: https://a2not.github.io/
+- Zen: https://zenn.dev/a2not
+- Socials (hardly active, but DMs are welcomed)
+  - bluesky: [@a2not.bsky.social](https://bsky.app/profile/a2not.bsky.social)
+  - x: [@a2not_](https://twitter.com/a2not_)
