@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - Socials (hardly active, but DMs are welcomed)
   - bluesky: [@a2not.bsky.social](https://bsky.app/profile/a2not.bsky.social)
   - x: [@a2not_](https://twitter.com/a2not_)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a2not)](https://github.com/anuraghazra/github-readme-stats)
