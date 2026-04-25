@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Blog: https://a2not.github.io
 - Zen: https://zenn.dev/a2not
 - Socials (hardly active, but DMs are welcomed)
   - bluesky: [@a2not.bsky.social](https://bsky.app/profile/a2not.bsky.social)
